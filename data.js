@@ -12,7 +12,7 @@ module.exports = [
     name: "Funcify.js",
     github: "Cortys/Funcify.js",
     tags: ["extend","function","modify","rewrite","functions"],
-    description: "A better API for using localStorage and sessionStorage.",
+    description: "Let javascript rewrite itself at runtime. Some crazy experimental stuff but easy to use.",
     url: "http://cortys.de/funcify",
     source: "http://cortys.de/funcify/funcify.min.js"
   },
