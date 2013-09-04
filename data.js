@@ -9,6 +9,14 @@
 
 module.exports = [
   {
+    name: "Funcify.js",
+    github: "Cortys/Funcify.js",
+    tags: ["extend","function","modify","rewrite","functions"],
+    description: "A better API for using localStorage and sessionStorage.",
+    url: "http://cortys.de/funcify",
+    source: "http://cortys.de/funcify/funcify.min.js"
+  },
+  {
     name: "store",
     github: "nbubna/store",
     tags: ["localStorage", "sessionStorage", "JSON", "namespace", "API", "extensible"],
